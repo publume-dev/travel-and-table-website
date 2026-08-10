@@ -1,0 +1,29 @@
+{
+  "url": "https://travel-food.publume.dev/",
+  "name": "Travel and Table",
+  "description": "A warm bilingual daily publication about destinations, local food, and culturally respectful travel ideas.",
+  "tagline": "Daily places, food, and the stories around them.",
+  "locale": "en",
+  "outputLanguages": [
+    "zh-CN",
+    "en"
+  ],
+  "defaultContentLanguage": "en",
+  "publisherName": "Publume Journey Desk",
+  "authorName": "Travel and Table",
+  "contactUrl": "",
+  "aiDisclosure": "",
+  "socialImageUrl": "",
+  "newsletterUrl": "",
+  "sponsorUrl": "",
+  "showTopics": true,
+  "showScore": false,
+  "showSources": true,
+  "footerText": "",
+  "presentation": {
+    "schemaVersion": 1,
+    "ads": {
+      "provider": "none"
+    }
+  }
+}
